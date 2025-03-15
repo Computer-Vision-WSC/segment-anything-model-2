@@ -1,3 +1,5 @@
 torch>=2.5.1
 torchvision>=0.20.1
 -e git+https://github.com/facebookresearch/sam2.git@main#egg=sam-2[notebooks]
+supervision==0.25.1
+jupyter_bbox_widget==0.6.0
